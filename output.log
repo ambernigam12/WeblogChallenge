@@ -1,0 +1,10 @@
+-----------------------Analytical Segment-----------------------
+Average session time (in seconds): 10.6647359424 
+Unique URL visits per session: [('119.226.59.78:49815', [1]), ('61.3.154.152:11059', [2])] 
+Most engaged user: 116.203.74.167:4161 
+-----------------------Analytical Segment-----------------------
+-----------------------Machine Learning Segment-----------------------
+Accuracy metric (root mean square error) for predicting the expected load (requests/second) in the next minute: 76.6138894829
+Accuracy metric (root mean square error) for predicting the session length for a given IP: 7.52933183834e-15
+Accuracy metric (root mean square error) for predicting the number of unique URL visits by a given IP: 9.65182930219e-16
+-----------------------Machine Learning Segment-----------------------
